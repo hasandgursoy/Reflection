@@ -1,0 +1,15 @@
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/bin/Debug/net7.0/Reflection
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/bin/Debug/net7.0/Reflection.deps.json
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/bin/Debug/net7.0/Reflection.runtimeconfig.json
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/bin/Debug/net7.0/Reflection.dll
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/bin/Debug/net7.0/Reflection.pdb
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.csproj.AssemblyReference.cache
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.AssemblyInfoInputs.cache
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.AssemblyInfo.cs
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.csproj.CoreCompileInputs.cache
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.dll
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/refint/Reflection.dll
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.pdb
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/Reflection.genruntimeconfig.cache
+/Users/hasandogacangursoy/Projects/NETProjects/Reflection/obj/Debug/net7.0/ref/Reflection.dll
